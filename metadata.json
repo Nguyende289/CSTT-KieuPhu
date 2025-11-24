@@ -1,0 +1,5 @@
+{
+  "name": "Google Sheet Data Viewer",
+  "description": "A web application that fetches and displays data from a public Google Sheet in a clean, readable, and responsive table format. It handles loading and error states gracefully.",
+  "requestFramePermissions": []
+}
